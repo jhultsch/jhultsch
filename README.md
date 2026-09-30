@@ -15,6 +15,9 @@ A few things I like are:
 ## What to know more?
 Connect with me on [LinkedIn](https://www.linkedin.com/in/julius-hultsch/)!
 
+-----
+last updated 30-9-2026
+
 <!--
 **jhultsch/jhultsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
