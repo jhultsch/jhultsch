@@ -1,5 +1,5 @@
 ## Hello there 👋
-This document is for you to learn about me, **Julius Hultsch**
+This document is for you to learn about me, **Julius Hultsch**.
 
 ## Let me introduce myself
 I don't know much about Git so this is a trial run. I've learned a few things this lecture like how to add titles/headers, change text, and add things lists and hyperlinks.
